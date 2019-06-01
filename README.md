@@ -90,6 +90,7 @@ A curated list of background subtraction papers and related applications resourc
 ### 2017 Papers
 
 ## Review/survey Papers
+- [2019 - A novel instrument to compare dynamic object detection algorithms](https://www.sciencedirect.com/science/article/pii/S0262885619300563#!)
 - [2019 - Background Subtraction in Real Applications: Challenges, Current Models and Future Directions](https://arxiv.org/pdf/1901.03577)
 - [2018 - New trend in video foreground detection using deep learning](https://ieeexplore.ieee.org/iel7/8610060/8623819/08623825.pdf)
 - [2014 - Traditional and recent approaches in background modeling for foreground detection: An overview](https://www.sciencedirect.com/science/article/pii/S1574013714000033)
